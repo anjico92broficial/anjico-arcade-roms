@@ -1,0 +1,24 @@
+<mamelayout version="2">
+
+  <element name="Sid Bezel">
+    <image file="Sid Bezel.png" />
+  </element>
+
+   <view name="Sid Bezel">
+    <screen index="0">
+      <bounds x="240" y="0" width="1440" height="1080" />
+    </screen>
+
+    <bezel element="Sid Bezel">
+      <bounds x="0" y="0" width="1920" height="1080" />
+    </bezel>
+  </view>
+
+</mamelayout>
+
+<!--
+
+- Sidney Matias
+- sidney.matias@gmail.com
+
+-->
